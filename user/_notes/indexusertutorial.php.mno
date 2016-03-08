@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:no_mykad_pelanggan;datatype:string,name:nama;datatype:string,name:alamat;datatype:string,name:no_telefon_pejabat;datatype:string,name:no_fax;datatype:string,name:no_telefon_bimbit;datatype:string,name:email;datatype:string,name:kata_laluan;datatype:string,name:jawatan;datatype:string" />
+</info>

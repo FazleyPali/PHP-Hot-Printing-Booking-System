@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsjumlahproduk" value="name:kod_produk;datatype:string,name:nama_produk;datatype:string,name:jumlah_harga;datatype:real,name:count(tempahan.kod_produk);datatype:int" />
+</info>

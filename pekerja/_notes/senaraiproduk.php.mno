@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsProduk" value="name:kod_produk;datatype:string,name:nama_produk;datatype:string,name:harga;datatype:int,name:warna;datatype:string,name:saiz;datatype:string,name:huraian;datatype:string,name:gambar;datatype:string" />
+</info>

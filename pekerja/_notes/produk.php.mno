@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MMGuideColor" value="#00FF00" />
+	<infoitem key="MMGuideVisible" value="true" />
+	<infoitem key="MMGuideLocked" value="false" />
+	<infoitem key="MMSnapToGuide" value="true" />
+	<infoitem key="MMGuidesSnapToElements" value="true" />
+	<infoitem key="MMDistanceColor" value="#0000FF" />
+	<infoitem key="UD_rsPelanggan" value="name:no_mykad_pelanggan;datatype:string,name:nama;datatype:string,name:alamat;datatype:string,name:no_telefon_pejabat;datatype:string,name:no_fax;datatype:string,name:no_telefon_bimbit;datatype:string,name:email;datatype:string,name:kata_laluan;datatype:string,name:jawatan;datatype:string" />
+	<infoitem key="UD_rsProduk" value="name:kod_produk;datatype:string,name:nama_produk;datatype:string,name:harga;datatype:real,name:warna;datatype:string,name:saiz;datatype:string,name:huraian;datatype:string,name:gambar;datatype:string" />
+	<infoitem key="MMGuideCount" value="0" />
+</info>

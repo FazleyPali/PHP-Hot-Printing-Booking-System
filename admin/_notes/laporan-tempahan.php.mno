@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsTempahanPelanggan" value="name:no_tempahan;datatype:int,name:no_mykad_pelanggan;datatype:string,name:kod_produk;datatype:string,name:tarikh_tempah;datatype:date,name:kuantiti;datatype:int,name:jumlah_harga;datatype:real,name:jumlah;datatype:real" />
+	<infoitem key="UD_Recordset1" value="name:SUM( tempahan.kuantiti * tempahan.jumlah_harga);datatype:real" />
+</info>
